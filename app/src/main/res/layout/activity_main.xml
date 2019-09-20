@@ -38,5 +38,14 @@
         android:textSize="18dp"
         android:textAlignment="center"
         />
+    <Button
+        android:id="@+id/btnShareToApp"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="380dp"
+        android:text="Share to other Apps"
+        android:textSize="18dp"
+        android:textAlignment="center"
+        />
 
 </RelativeLayout>
